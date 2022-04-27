@@ -16,4 +16,4 @@ Our prediction is divided into two parts. The video will be divided into referen
 The prediction set are images randomly captured from the same video and we applied the thresholds to predict the traffic volume captured in the image. The result will be visualized adding the volume indication and the counting result.
 
 ## 4. Result and Visualization
-We generated images as stated in the previous section for the visualizations. Combining the images we also generated an animation of the images for a better visualization effect. Detailed images and gif image can be found in the<a href="https://github.com/YifanNEU/CV5330Project/tree/main/predict%20set%20final">main</a> folder.
+We generated images as stated in the previous section for the visualizations. Combining the images we also generated an animation of the images for a better visualization effect. Detailed images and gif image can be found in the <a href="https://github.com/YifanNEU/CV5330Project/tree/main/predict%20set%20final">main</a> folder.
